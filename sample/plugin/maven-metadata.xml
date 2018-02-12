@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>hello-maven-plugin Maven Plugin</name>
+      <prefix>hello-maven-plugin</prefix>
+      <artifactId>hello-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
